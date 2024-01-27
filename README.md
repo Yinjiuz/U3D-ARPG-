@@ -4,4 +4,4 @@ U3D回合制+ARPG游戏
 链接：https://pan.baidu.com/s/1FAINKcznaRkbKybSGf7Zuw 
 提取码：9lii
 
-![Image text](https://github.com/Yinjiuz/U3D-ARPG-/img/1.png)
+![Image text](img/1.png)
